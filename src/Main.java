@@ -11,7 +11,7 @@ public class Main {
         artem.privet();
 
 
-        Car lada = new Car("Lada", "Granta",1.7f , "yellow", 2015, "Russia");
+        Car lada = new Car( "Lada","Granta",1.7f , "yellow", 2015, "Russia");
         Car audi = new Car("Audi","A8 50 L TDI quattro", 3.0f, "black", 2020, "Germany" );
         Car bmw = new Car("BMW", "Z8", 3.0f,"black", 2021, "Germany");
         Car kia = new Car("Kia","Sportage 4-го поколения",2.4f,"red",2018, "South Korea");
