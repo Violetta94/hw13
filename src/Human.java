@@ -1,8 +1,8 @@
 public class Human {
 
-    int yearOfBirth;
-    String name;
-    String town;
+   private int yearOfBirth;
+   String name;
+   private String town;
     String jobTitle;
 
     public Human(String name , String town, int yearOfBirth, String jobTitle) {
